@@ -10,6 +10,7 @@ interface SubSegmentPaginationTableProps {
     onEdit?: (item: any) => void;
     onAdd?: () => void;
 }
+console.log("hello")
 /**
  * Child Component
  *
